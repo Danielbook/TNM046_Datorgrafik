@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GLprimer" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="GLprimer" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Compiler>
+			<Add directory="." />
+		</Compiler>
+		<Linker>
+			<Add option="-L./GLFW" />
+			<Add option="-framework OpenGL" />
+			<Add option="-framework Cocoa" />
+			<Add option="-framework IOKit" />
+			<Add option="-framework CoreVideo" />
+			<Add library="glfw3_macosx" />
+			<Add directory="./GLFW" />
+		</Linker>
+		<Unit filename="GLprimer.cpp" />
+		<Unit filename="Rotator.cpp" />
+		<Unit filename="Rotator.hpp" />
+		<Unit filename="Shader.cpp" />
+		<Unit filename="Shader.hpp" />
+		<Unit filename="Texture.cpp" />
+		<Unit filename="Texture.hpp" />
+		<Unit filename="TriangleSoup.cpp" />
+		<Unit filename="TriangleSoup.hpp" />
+		<Unit filename="Utilities.cpp" />
+		<Unit filename="Utilities.hpp" />
+		<Unit filename="fragment.glsl" />
+		<Unit filename="vertex.glsl" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

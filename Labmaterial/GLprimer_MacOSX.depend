@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1400579166 source:/Users/Daniel/Skolarbeten/Nuvarande kurser/TNM046 - Datorgrafik/Labmaterial/GLprimer.cpp
+	<iostream>
+	<Utilities.hpp>
+	<Shader.hpp>
+	<math.h>
+	<TriangleSoup.hpp>
+	<Texture.hpp>
+	<Rotator.hpp>
+	<GLFW/glfw3.h>
+
+1394017068 /Users/Daniel/Skolarbeten/Nuvarande kurser/TNM046 - Datorgrafik/Labmaterial/GLFW/glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1397565291 /Users/Daniel/Skolarbeten/Nuvarande kurser/TNM046 - Datorgrafik/Labmaterial/Utilities.hpp
+	"GLFW/glfw3.h"
+	<GL/glext.h>
+
+1394017058 /Users/Daniel/Skolarbeten/Nuvarande kurser/TNM046 - Datorgrafik/Labmaterial/GL/glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1395943782 source:/Users/Daniel/Skolarbeten/Nuvarande kurser/TNM046 - Datorgrafik/Labmaterial/Utilities.cpp
+	<cstdio>
+	"Utilities.hpp"
+
+1397565311 /Users/Daniel/Skolarbeten/Nuvarande kurser/TNM046 - Datorgrafik/Labmaterial/Shader.hpp
+	"GLFW/glfw3.h"
+	"Utilities.hpp"
+	<cstdio>
+
+1396963022 source:/Users/Daniel/Skolarbeten/Nuvarande kurser/TNM046 - Datorgrafik/Labmaterial/Shader.cpp
+	"Shader.hpp"
+
+1400502263 source:/Users/Daniel/Skolarbeten/Nuvarande kurser/TNM046 - Datorgrafik/Labmaterial/TriangleSoup.cpp
+	<cstdio>
+	<cmath>
+	<cstring>
+	"TriangleSoup.hpp"
+	"Utilities.hpp"
+
+1397565322 /Users/Daniel/Skolarbeten/Nuvarande kurser/TNM046 - Datorgrafik/Labmaterial/TriangleSoup.hpp
+	"GLFW/glfw3.h"
+
+1395944010 source:/Users/Daniel/Skolarbeten/Nuvarande kurser/TNM046 - Datorgrafik/Labmaterial/Texture.cpp
+	"Texture.hpp"
+
+1397565301 /Users/Daniel/Skolarbeten/Nuvarande kurser/TNM046 - Datorgrafik/Labmaterial/Texture.hpp
+	"GLFW/glfw3.h"
+	<cstdio>
+	<cstring>
+	"Utilities.hpp"
+
+1397565332 /Users/Daniel/Skolarbeten/Nuvarande kurser/TNM046 - Datorgrafik/Labmaterial/Rotator.hpp
+	"GLFW/glfw3.h"
+	<cmath>
+
+1394017058 source:/Users/Daniel/Skolarbeten/Nuvarande kurser/TNM046 - Datorgrafik/Labmaterial/Rotator.cpp
+	"Rotator.hpp"
+
+1394017058 source:/Users/Daniel/Skolarbeten/Tidigare/TNM046_Datorgrafik/Labmaterial/Rotator.cpp
+	"Rotator.hpp"
+
+1397565332 /Users/Daniel/Skolarbeten/Tidigare/TNM046_Datorgrafik/Labmaterial/Rotator.hpp
+	"GLFW/glfw3.h"
+	<cmath>
+
+1394017068 /Users/Daniel/Skolarbeten/Tidigare/TNM046_Datorgrafik/Labmaterial/GLFW/glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1396963022 source:/Users/Daniel/Skolarbeten/Tidigare/TNM046_Datorgrafik/Labmaterial/Shader.cpp
+	"Shader.hpp"
+
+1397565311 /Users/Daniel/Skolarbeten/Tidigare/TNM046_Datorgrafik/Labmaterial/Shader.hpp
+	"GLFW/glfw3.h"
+	"Utilities.hpp"
+	<cstdio>
+
+1397565291 /Users/Daniel/Skolarbeten/Tidigare/TNM046_Datorgrafik/Labmaterial/Utilities.hpp
+	"GLFW/glfw3.h"
+	<GL/glext.h>
+
+1394017058 /Users/Daniel/Skolarbeten/Tidigare/TNM046_Datorgrafik/Labmaterial/GL/glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1395944010 source:/Users/Daniel/Skolarbeten/Tidigare/TNM046_Datorgrafik/Labmaterial/Texture.cpp
+	"Texture.hpp"
+
+1397565301 /Users/Daniel/Skolarbeten/Tidigare/TNM046_Datorgrafik/Labmaterial/Texture.hpp
+	"GLFW/glfw3.h"
+	<cstdio>
+	<cstring>
+	"Utilities.hpp"
+
+1400502263 source:/Users/Daniel/Skolarbeten/Tidigare/TNM046_Datorgrafik/Labmaterial/TriangleSoup.cpp
+	<cstdio>
+	<cmath>
+	<cstring>
+	"TriangleSoup.hpp"
+	"Utilities.hpp"
+
+1397565322 /Users/Daniel/Skolarbeten/Tidigare/TNM046_Datorgrafik/Labmaterial/TriangleSoup.hpp
+	"GLFW/glfw3.h"
+
+1395943782 source:/Users/Daniel/Skolarbeten/Tidigare/TNM046_Datorgrafik/Labmaterial/Utilities.cpp
+	<cstdio>
+	"Utilities.hpp"
+
+1428653100 source:/Users/Daniel/Skolarbeten/Tidigare/TNM046_Datorgrafik/Labmaterial/GLprimer.cpp
+	<iostream>
+	<Utilities.hpp>
+	<Shader.hpp>
+	<math.h>
+	<TriangleSoup.hpp>
+	<Texture.hpp>
+	<Rotator.hpp>
+	<GLFW/glfw3.h>
+
